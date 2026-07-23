@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>📺BaixarVideos-Pytho </h1>
+  <h1>📺BaixarVideos-Python </h1>
   <p><strong>Uma aplicação de linha de comando elegante para download de vídeos do YouTube com suporte a autenticação e histórico de downloads.</strong></p>
 
   <p>
