@@ -44,7 +44,7 @@ Certifique-se de ter instalado em sua máquina:
 ## 📦 Instalação
 
 1. <b>Clone o repositório:</b>
-   <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git
+   <pre><code>git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/julio-basilio/BaixarVideos-Python/tree/main)
 cd seu-repositorio</code></pre>
 
 2. <b>Instale as dependências:</b>
